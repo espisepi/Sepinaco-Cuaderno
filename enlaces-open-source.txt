@@ -1,0 +1,9 @@
+Proyectos open source:
+
+- https://github.com/torvalds/linux/tree/master
+
+- https://github.com/laurent22/joplin/tree/dev
+
+- https://github.com/facebook/react
+
+- 
